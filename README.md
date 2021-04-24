@@ -38,6 +38,8 @@ Mit welchen Eigenschaften oder Methoden ihr eure Klassen füllt sei euch überla
 
 Guckt auch in die Ressourcen, dort findet ihr ebenfalls die Aufgabe zu Interfaces des letzen Semesters, die eine ähnliche Struktur und ähnliche Klassen beinhaltet, wie wir sie hier haben.
 
+Super als Übung ist es auch sinnvolle Konstruktoren zu erstellen!
+
 Viel Spaß und Erfolg
     
 ### ℹ️ Resourcen:
