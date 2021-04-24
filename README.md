@@ -4,6 +4,8 @@
 
 In der Übungsstunde am Donnerstag haben wir uns als Wiederholung Klassen, Vererbung und Interfaces angeschaut. Da das zu großen Teilen ein Monolog meinerseits war hier jetzt nochmal eine entsprechende Aufgabe, damit ihr das auch anwenden könnt.
 
+Der beiliegende Code ist meine Umsetzung. Guckt euch diese bitte nur an, wenn ihr fertig seid oder überhaupt nicht weiterkommt und schon die Ressourcen als Hilfe benutzt habt.
+
 ### 📝 Aufgabe:
 
 Erstellt ein neues Projekt mit folgender Hierarchie:
